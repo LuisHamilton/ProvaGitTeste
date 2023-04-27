@@ -8,4 +8,5 @@ public class BranchGalho1
 {
     public string? Tipo { get; set; }
     public int Valor { get; set; }
+    public bool Ativo { get; set; }
 }
