@@ -18,4 +18,6 @@ public class BranchGalho2
     public string? Funcao { get; set; }
     public int Posicao { get; set; }
     public DateTime Data { get; set; }
+    public string? Local { get; set; }
+    public int Salario { get; set; }
 }
