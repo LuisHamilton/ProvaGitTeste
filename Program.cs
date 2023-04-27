@@ -11,3 +11,9 @@ public class BranchGalho1
     public int Valor { get; set; }
     public bool Ativo { get; set; }
 }
+
+public class BranchGalho2
+{
+    public string? Funcao { get; set; }
+    public int Posicao { get; set; }
+}
