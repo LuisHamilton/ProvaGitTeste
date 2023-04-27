@@ -10,6 +10,7 @@ public class BranchGalho1
     public string? Tipo { get; set; }
     public int Valor { get; set; }
     public bool Ativo { get; set; }
+    public DateTime Atualizado { get; set; }
 }
 
 public class BranchGalho2
